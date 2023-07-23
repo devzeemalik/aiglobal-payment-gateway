@@ -1,0 +1,33 @@
+.max_payment_fields{
+
+	width: 100%;
+
+    border-radius: 0px !important; 
+
+    border: 1px solid #b7b7b7 !important;
+
+    padding: 12px !important;
+
+}
+
+.apg_parent{
+
+	display: flex;
+
+	margin-top: 15px;
+
+}
+
+.apg_card_cvv input{
+
+    border-radius: 0px !important; 
+
+    border: 1px solid #b7b7b7 !important;
+
+    padding: 12px !important;
+
+
+}
+.payment_method_aiglobal img{
+    width: 150px;
+}
